@@ -27,7 +27,7 @@ spec:
         carto.run/workload-name: spring-petclinic
     spec:
       containers:
-      - image: index.docker.io/springcommunity/spring-framework-petclinic@sha256:36932e932038073b2e548426d8c829e78a9a4fedd19076373b23890ecbad7ef2
+      - image: index.docker.io/springcommunity/spring-framework-petclinic@sha256:2766c68b03afd64d154339a2574cdf18db1a1b92b3013a4d6a3dfb9be1bac6cd
         name: workload
         resources: {}
         securityContext:
